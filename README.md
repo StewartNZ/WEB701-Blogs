@@ -5,4 +5,4 @@ I have created a GitHub Repository for my Blogs and have also created a [discuss
 ### Current Blogs
 - ##### [Link to Blog-01 (01/03/2021)](https://stewartnz.github.io/WEB701-Blogs/Blogs/Blog-01)
 - ##### [Link to Blog-02 (02/03/2021)](https://stewartnz.github.io/WEB701-Blogs/Blogs/Blog-02)
-- ##### [Link to Blog-02 (02/03/2021)](https://stewartnz.github.io/WEB701-Blogs/Blogs/Blog-03)
+- ##### [Link to Blog-02 (08/03/2021)](https://stewartnz.github.io/WEB701-Blogs/Blogs/Blog-03)
