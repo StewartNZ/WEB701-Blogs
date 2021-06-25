@@ -4,7 +4,8 @@ I have created a GitHub Repository for my Blogs and have also created a [discuss
 
 ### Current Blogs
 
--   [Link to Blog-01 (01/03/2021)](https://stewartnz.github.io/WEB701-Blogs/Blogs/Blog-01)
--   [Link to Blog-02 (02/03/2021)](https://stewartnz.github.io/WEB701-Blogs/Blogs/Blog-02)
--   [Link to Blog-03 (08/03/2021 - 09/03/2021)](https://stewartnz.github.io/WEB701-Blogs/Blogs/Blog-03)
--   [Link to Blog-04 (15/03/2021 - 16/03/2021)](https://stewartnz.github.io/WEB701-Blogs/Blogs/Blog-04)
+-   [Introduction to WEB701 (01/03/2021)](https://stewartnz.github.io/WEB701-Blogs/Blogs/Blog-01)
+-   [Milestone 1 Assignment 2 (02/03/2021)](https://stewartnz.github.io/WEB701-Blogs/Blogs/Blog-02)
+-   [LinkedInLearning MEAN Tutorial (08/03/2021 - 09/03/2021)](https://stewartnz.github.io/WEB701-Blogs/Blogs/Blog-03)
+-   [TypeScript (15/03/2021 - 16/03/2021)](https://stewartnz.github.io/WEB701-Blogs/Blogs/Blog-04)
+-   [Milestone 3 (25/06/2021)](https://stewartnz.github.io/WEB701-Blogs/Blogs/Blog-05)
